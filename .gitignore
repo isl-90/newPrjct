@@ -5,3 +5,4 @@
 *.ear
 .gitignore
 .target/*
+target
